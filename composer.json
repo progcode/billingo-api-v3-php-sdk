@@ -2,6 +2,7 @@
     "name": "progcode/billingo-api-v3-php-sdk",
     "description": "This is a Billingo (billingo.hu) API V3 PHP SDK clone from SwaggerHUB.",
     "type": "library",
+    "version": "0.2.2",
     "keywords": [
         "swagger",
         "php",
